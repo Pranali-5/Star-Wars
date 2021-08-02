@@ -1,0 +1,48 @@
+#characters {
+  height: fit-content;
+  width: 410px;
+  border: 1px solid black;
+  margin: auto;
+  overflow-y: visible;
+  background-color: white;
+  color: black;
+  margin-top: 55px;
+  margin-left: 35%;
+}
+
+#p1:hover {
+  background-color: rgb(207, 219, 29);
+  height: fix-content;
+  width: 410px;
+}
+body {
+  background-color: black;
+  color: white;
+}
+img {
+  width: 200px;
+  height: 100px;
+  margin-left: 43%;
+  margin-top: 10%;
+}
+
+#search_div {
+  float: left;
+}
+#search {
+  cursor: pointer;
+  width: 40px;
+  margin-top: 12px;
+}
+#search_box {
+  margin-top: 20px;
+}
+
+#query {
+  height: 28px;
+  float: left;
+  margin-top: 10px;
+  width: 400px;
+  margin-left: 35%;
+  border-bottom: none;
+}
